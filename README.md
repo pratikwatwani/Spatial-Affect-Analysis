@@ -1,0 +1,2 @@
+# Spatial-Affect-Analysis
+  This project aims to test the hypothesis if geography has an impact on anxiety of an individual. In this particular situation, the spatial analysis is conducted in the Metrotech Commons area, an urban plaza which houses school buildings, cafes, restaurants, as well as industrial buildings. Any or all of these could be a factor in influencing such emotions in an individual. Furthermore, the project performs spatial autocorrelation using Morans I and Anselin Local Moran's I, thus calling for a good understanding of the underlying theory.
